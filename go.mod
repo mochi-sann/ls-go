@@ -1,2 +1,2 @@
-module learn-go
+module go-ls
 go 1.18
